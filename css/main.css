@@ -524,13 +524,20 @@ ul.sub-menu {
 
 .person-thumb {
   position: relative;
+  /* max-width: 200px;
+  max-height: 200px;
+  height:200px;
+  width:200px; */
+  /* padding:90px 90px 0; */
+  /* border-radius: 20%; */
+  /* radius */
 }
 
 .person-thumb img {
 	filter: grayscale(100%);
     -webkit-filter: grayscale(100%); 
     filter: gray;
-    -webkit-transition: all .6s ease;
+    -webkit-transition: all .2s ease;
 }
 
 
